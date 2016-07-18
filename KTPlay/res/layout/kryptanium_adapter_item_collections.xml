@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 专题 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/kt_content_padding"
+    >
+
+        <com.ktplay.widget.NoClickStateImageView
+            android:id="@+id/kryptanium_topic_item_image"
+            android:layout_width="fill_parent"
+            android:layout_height="90dp"
+            android:scaleType="centerCrop"
+            android:layout_marginRight="8dp"
+            />
+
+        <ImageView
+            android:id="@+id/kryptanium_topic_item_image_new"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/kryptanium_collections_new"
+            />
+
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_item_title"
+            style="@style/kryptanium_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:layout_toRightOf="@id/kryptanium_topic_item_image"
+             />
+
+        <com.ktplay.widget.KTEmojiText
+            android:id="@id/kt_item_content"
+            style="@style/kryptanium_secondary_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:ellipsize="end"
+            android:includeFontPadding="false"
+            android:maxLines="2"
+            android:layout_toRightOf="@id/kryptanium_topic_item_image"
+            android:layout_below="@id/kt_item_title"
+            />
+
+        <TextView
+            android:id="@+id/kt_item_value"
+            style="@style/kryptanium_hint_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@id/kryptanium_topic_item_image"
+            android:layout_below="@id/kt_item_content"
+            />
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/kryptanium_hot_video_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    style="@style/kryptanium_home_widget"
+    >
+
+
+
+        <ImageView
+            android:id="@id/kt_icon"
+            android:src="@drawable/kt_home_video"
+            style="@style/kryptanium_subtitle_icon"
+            />
+
+        <TextView
+            android:layout_toRightOf="@id/kt_icon"
+            android:text="@string/kt_videos"
+            style="@style/kryptanium_subtitle_text"
+            />
+
+    <com.ktplay.support.v4.view.ViewPager
+        android:layout_below="@id/kt_icon"
+        android:id="@+id/kryptanium_hot_video_vp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/kt_content_padding"
+        android:gravity="top|center_horizontal"
+        />
+
+    <!--<View-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="6dp"-->
+        <!--android:background="@color/kryptanium_title_bg" />-->
+
+</RelativeLayout>

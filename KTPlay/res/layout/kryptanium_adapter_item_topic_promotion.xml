@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 列表项 - 话题 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/kt_card_vmargin"
+    android:paddingLeft="@dimen/kt_card_hmargin"
+    android:paddingRight="@dimen/kt_card_hmargin"
+    android:paddingTop="@dimen/kt_card_vmargin" >
+
+    <FrameLayout
+        android:id="@+id/kryptanium_topic_item"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/kryptanium_card_bg"
+        android:orientation="vertical" >
+    </FrameLayout>
+
+</FrameLayout>

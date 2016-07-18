@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="gameBg">#FFC0C0C0</color>
+    <color name="card0">#FFD4D4D4</color>
+    <color name="card2">#FFEEE5DB</color>
+    <color name="card4">#FFEEE0CA</color>
+    <color name="card8">#FFF2C17A</color>
+    <color name="card16">#FFF59667</color>
+    <color name="card32">#FFF68C6F</color>
+    <color name="card64">#FFF66E3C</color>
+    <color name="card128">#FFEDCF74</color>
+    <color name="card256">#FFEDCC64</color>
+    <color name="card512">#FFEDC854</color>
+    <color name="card1024">#FFEDC54F</color>
+    <color name="card2048">#FFEDC32E</color>
+    <color name="card">#FF3C4A34</color>
+
+</resources>

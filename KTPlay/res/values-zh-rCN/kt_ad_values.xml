@@ -1,0 +1,5 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+           xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="kt_ad_flag">广告</string>
+</resources>
