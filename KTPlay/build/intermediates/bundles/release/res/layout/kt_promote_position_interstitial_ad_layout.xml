@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kt_interstitial_ad_content"
+    android:layout_width="283dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/kryptanium_card_bg"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingBottom="12dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@android:color/transparent">
+
+        <TextView
+            android:id="@+id/kt_interstitial_ad_title"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:textColor="@color/kryptanium_text_black"
+            android:textSize="18sp" />
+
+        <FrameLayout
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:id="@+id/kt_interstitial_ad_close"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/kryptanium_close_icon" />
+
+            <TextView
+                android:id="@+id/kt_interstitial_ad_wait"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#aa333333"
+                android:gravity="center"
+                android:visibility="gone"
+                android:textSize="18sp"
+                android:textColor="#ffffff" />
+
+        </FrameLayout>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginBottom="1dp"
+        android:background="@color/kryptanium_base_color_gray" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="283dp">
+
+        <FrameLayout
+            android:id="@+id/kt_interstitial_ad_content_layout"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:id="@+id/kt_interstitial_ad_loading_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#ffffff"
+            android:gravity="center"
+            android:visibility="gone">
+
+            <!-- Loading -->
+
+            <com.ktplay.widget.KTIndeterminatedProgress
+                android:id="@+id/kt_ad_progress"
+                android:layout_width="16dp"
+                android:layout_height="16dp"
+                android:layout_gravity="center"
+                android:background="@drawable/kryptanium_circle_bg" />
+
+        </FrameLayout>
+
+    </RelativeLayout>
+
+
+</LinearLayout>

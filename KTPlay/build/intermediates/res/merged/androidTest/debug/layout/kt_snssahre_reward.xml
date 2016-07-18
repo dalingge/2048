@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/kryptanium_redemption_line"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@id/kt_list"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+             style="@style/kryptanium_list"
+            />
+
+        <ImageView
+            android:id="@+id/kryptanium_redemption_listview_alpha"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="#aaffffff" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/kryptanium_redemption_foot_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:paddingBottom="3dp"
+        android:paddingTop="3dp" >
+
+        <TextView
+            android:id="@id/kt_action"
+            android:layout_gravity="center_horizontal|bottom"
+            android:gravity="center"
+            android:text="@string/kt_claim"
+            style="@style/kryptanium_button_style_main"
+            />
+    </FrameLayout>
+
+</RelativeLayout>

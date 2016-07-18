@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_bottom_to_show.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_bottom_to_show.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_fade_in.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_preview_title_to_show.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_preview_title_to_show.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_fade_out.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_chat_volume_anim_1.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_chat_volume_anim_1.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_signature_hide_anim.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_signature_hide_anim.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_posttask_outdowntoup.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_posttask_outdowntoup.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_title_to_show.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_title_to_show.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_chat_volume_anim_4.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_chat_volume_anim_4.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_chat_volume_anim_5.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_chat_volume_anim_5.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_chat_volume_anim_2.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_chat_volume_anim_2.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_bottom_out.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_fade_out.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_signature_play_anim_text.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_signature_play_anim_text.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_title_to_close.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_title_to_close.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_preview_title_to_close.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_preview_title_to_close.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_posttask_inputodown.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_posttask_inputodown.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_signature_play_anim_bubble.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_signature_play_anim_bubble.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_icon_scale.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_icon_scale.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_breath.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_breath.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_signature_play_anim_nickname.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_signature_play_anim_nickname.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_fade_in.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_bottom_in.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_signature_play_anim_avatar.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_signature_play_anim_avatar.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_button_scale.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_button_scale.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_chat_volume_anim_3.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_chat_volume_anim_3.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kryptanium_chat_volume_anim_0.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kryptanium_chat_volume_anim_0.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/anim/kt_video_bottom_to_close.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/anim/kt_video_bottom_to_close.xml"
+    }
+]

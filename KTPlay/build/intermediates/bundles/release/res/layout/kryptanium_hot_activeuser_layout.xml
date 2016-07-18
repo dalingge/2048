@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/kryptanium_hot_activeuser_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    style="@style/kryptanium_home_widget"
+    >
+
+
+
+        <ImageView
+            android:id="@id/kt_icon"
+            android:src="@drawable/kt_home_active_user"
+            style="@style/kryptanium_subtitle_icon"
+            />
+
+        <TextView
+            android:layout_toRightOf="@id/kt_icon"
+            android:layout_gravity="center_vertical"
+            android:text="@string/kt_active_players"
+            style="@style/kryptanium_subtitle_text"
+            />
+
+    <com.ktplay.widget.HorizontalListView
+        android:layout_below="@id/kt_icon"
+        android:id="@+id/kryptanium_hot_activeuser_lv"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/kryptanium_home_hot_game_listview_height"
+        android:layout_marginTop="14dp"
+        android:cacheColorHint="#ffffffff"
+        android:listSelector="#00000000"
+        android:spacing="@dimen/kryptanium_home_hot_game_listview_spacing" />
+
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/color/kt_menu_text.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/color/kt_menu_text.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/color/kt_state_text.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/color/kt_state_text.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/color/kryptanium_titlebar_tabtext.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/color/kryptanium_titlebar_tabtext.xml"
+    }
+]

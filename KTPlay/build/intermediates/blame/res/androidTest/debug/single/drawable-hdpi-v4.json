@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ktplay_plugin_sns_button_close_normal.png",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ktplay_plugin_sns_button_close_normal.png"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ktplay_plugin_sns_null.png",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ktplay_plugin_sns_null.png"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ktplay_plugin_sns_button_close_pressed.png",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ktplay_plugin_sns_button_close_pressed.png"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ktplay_plugin_sns_button_close.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ktplay_plugin_sns_button_close.xml"
+    }
+]

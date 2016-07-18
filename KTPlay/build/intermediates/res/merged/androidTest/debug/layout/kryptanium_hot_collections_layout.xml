@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/kryptanium_hot_collections_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    style="@style/kryptanium_home_widget"
+    android:paddingLeft="0dp"
+    android:paddingRight="0dp"
+    >
+
+
+
+        <ImageView
+            android:id="@id/kt_icon"
+            android:layout_marginLeft="@dimen/kt_content_padding"
+            android:src="@drawable/kt_home_collection"
+            style="@style/kryptanium_subtitle_icon"
+            />
+
+        <TextView
+            android:layout_toRightOf="@id/kt_icon"
+            android:layout_gravity="center_vertical"
+            android:text="@string/kt_top_collections"
+            style="@style/kryptanium_subtitle_text"
+            />
+
+
+    <com.ktplay.widget.KTListViewInScrollView
+        android:layout_below="@id/kt_icon"
+        android:id="@+id/kryptanium_topic_listview"
+        style="@style/kryptanium_list"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:cacheColorHint="#00000000"
+        android:dividerHeight="0.5dp"
+        android:fadingEdge="none"
+        android:footerDividersEnabled="true"
+        android:listSelector="@color/kt_theme_listitem_dividercolor"
+        android:layout_marginTop="@dimen/kt_content_padding"
+        >
+    </com.ktplay.widget.KTListViewInScrollView>
+
+    <!--<View-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="6dp"-->
+        <!--android:background="@color/kryptanium_title_bg" />-->
+
+</RelativeLayout>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_chatsessions.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_chatsessions.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_chatitems.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_chatitems.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_gender.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_gender.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_addimage.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_addimage.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_inbox.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_inbox.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_favorited.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_favorited.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_community.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_community.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_topic.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_topic.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_chatusers.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_chatusers.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_friendrequests.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_friendrequests.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/menu/kryptanium_menu_chatitems_sent_failed.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/menu/kryptanium_menu_chatitems_sent_failed.xml"
+    }
+]

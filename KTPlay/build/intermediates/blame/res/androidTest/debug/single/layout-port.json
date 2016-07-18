@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/layout-port/kt_ad_install_fullscreen_layout.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/layout-port/kt_ad_install_fullscreen_layout.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/layout-port/kt_ad_content_card_layout.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/layout-port/kt_ad_content_card_layout.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/layout-port/kt_ad_content_fullscreen_layout.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/layout-port/kt_ad_content_fullscreen_layout.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/layout-port/kryptanium_strong_notice_layout.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/layout-port/kryptanium_strong_notice_layout.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/layout-port/kryptanium_frame_layout.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/layout-port/kryptanium_frame_layout.xml"
+    },
+    {
+        "merged": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/res/merged/androidTest/debug/layout-port/kt_ad_install_card_layout.xml",
+        "source": "/Users/dingboyang/AndroidStudioProjects/2048/KTPlay/build/intermediates/bundles/debug/res/layout-port/kt_ad_install_card_layout.xml"
+    }
+]

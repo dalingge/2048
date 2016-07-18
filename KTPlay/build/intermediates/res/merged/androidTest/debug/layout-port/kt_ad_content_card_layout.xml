@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="336dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/kt_ad_title"
+        style="@style/kt_ad_title_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="12dp"
+        android:ellipsize="end"
+        android:textSize="16sp"
+        android:singleLine="true"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/kt_ad_advertiser"
+        style="@style/kt_ad_content_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="12dp"
+        android:ellipsize="end"
+        android:singleLine="true"
+        android:textColor="@color/kt_ad_theme_color" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="12dp">
+
+        <!-- 广告内容 -->
+        <TextView
+            android:id="@+id/kt_ad_content"
+            style="@style/kt_ad_content_style"
+            android:maxLines="1"
+            android:layout_toLeftOf="@+id/kt_ad_button"
+            android:textColor="#000000"
+            android:paddingRight="10dp" />
+
+        <TextView
+            android:id="@+id/kt_ad_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:singleLine="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            android:textColor="@color/kt_ad_theme_color" />
+    </RelativeLayout>
+
+
+    <ImageView
+        android:id="@+id/kt_app_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_gravity="center_horizontal"
+        android:adjustViewBounds="true"/>
+
+    <!-- 广告标志 -->
+    <TextView style="@style/kt_ad_flag_style"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="8dp"/>
+</LinearLayout>

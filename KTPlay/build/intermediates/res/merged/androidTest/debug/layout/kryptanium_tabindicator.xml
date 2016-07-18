@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center"
+         >
+
+        <com.ktplay.widget.KTMaskableImageView
+            android:id="@id/kt_icon"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:contentDescription="@null"
+            />
+        <!--头像上层加个圆圈-->
+        <ImageView
+            android:id="@+id/kt_maskable_imageview"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:contentDescription="@null"
+            android:src="@drawable/kryptanium_tabindicator_button_profile_logon_border"
+            android:visibility="gone"
+          />
+
+
+
+        <!-- 新消息 -->
+	<include layout="@layout/kt_newmsg"
+	    android:layout_width="@dimen/kryptanium_new_msg_size"
+        android:layout_height="@dimen/kryptanium_new_msg_size"
+        android:layout_gravity="right"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+	    />
+
+     </FrameLayout>
